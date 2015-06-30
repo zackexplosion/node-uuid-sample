@@ -1,0 +1,25 @@
+{
+  "name": "node-uuid-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "lz-string": "^1.4.4",
+    "node-uuid": "^1.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cstony0917/node-uuid-sample.git"
+  },
+  "author": "Zackexplosion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cstony0917/node-uuid-sample/issues"
+  },
+  "homepage": "https://github.com/cstony0917/node-uuid-sample#readme"
+}
